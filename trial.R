@@ -1,6 +1,6 @@
 # R code 
 
-# Tools - Shell
+# Tools - Shell (should check the path)
 # git config --global user.name 'Cxxxa'
 # git config --global user.email 'cinnaxinali@outlook.com'
 
