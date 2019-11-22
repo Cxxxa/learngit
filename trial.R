@@ -12,3 +12,5 @@
 # if fail to push:
 # in RStudio, click on the "Tools" menu and select "Shell"
 # Run the following command: git push -u origin master
+
+# push again
